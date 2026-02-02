@@ -1,7 +1,32 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# AI Recipe Generator 🍽️
 
+A web app that generates recipes using AI based on user preferences.
+
+## Features
+- AI-based recipe generation
+- OpenAI / Gemini support
+- Simple frontend UI
+
+## Setup Instructions
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/sagar8431/sagardiet.git
+cd sagardiet
+
+## to run in short
+open new terminal
+type in terminal: cd api
+                  node server.js
+
+then create another new terminal and type:
+                cd frontend
+                npm start
+
+you will get output make sure necessay module is downoaded
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +93,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
